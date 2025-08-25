@@ -1,0 +1,7 @@
+﻿  소스.cpp
+C:\Users\user\source\repos\3-9\3-9\소스.cpp(5,28): warning C4305: '초기화 중': 'int'에서 'unsigned char'(으)로 잘립니다.
+C:\Users\user\source\repos\3-9\3-9\소스.cpp(5,25): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\user\source\repos\3-9\3-9\소스.cpp(6,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\user\source\repos\3-9\3-9\소스.cpp(7,31): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\source\repos\3-9\3-9\소스.cpp(8,30): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다.
+  3-9.vcxproj -> C:\Users\user\source\repos\3-9\x64\Debug\3-9.exe
